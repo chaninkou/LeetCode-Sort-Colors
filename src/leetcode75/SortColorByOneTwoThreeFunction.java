@@ -1,4 +1,4 @@
-package sortcolor;
+package leetcode75;
 
 public class SortColorByOneTwoThreeFunction {
 	// One pass only, perfect solution, super unique
