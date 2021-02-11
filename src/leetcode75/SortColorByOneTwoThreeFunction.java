@@ -2,6 +2,7 @@ package leetcode75;
 
 public class SortColorByOneTwoThreeFunction {
 	// One pass only, perfect solution, super unique
+	// Works only if 0,1,2 as color.
     public void sortColors(int[] nums) {
         int num0 = -1;
         int num1 = -1;
